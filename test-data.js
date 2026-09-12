@@ -88,7 +88,7 @@ const sections = [
       {
         "id": "B2",
         "type": "input",
-        "prompt": "2. t h _ r _ t y",
+        "prompt": "2. _ h _ r _ t y",
         "answers": [
           "thirsty"
         ],
